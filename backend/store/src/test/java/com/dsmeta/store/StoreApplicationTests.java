@@ -1,10 +1,10 @@
-package com.dev.dsmeta;
+package com.dsmeta.store;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DsmetaApplicationTests {
+class StoreApplicationTests {
 
 	@Test
 	void contextLoads() {
